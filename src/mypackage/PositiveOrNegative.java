@@ -16,7 +16,7 @@ public class PositiveOrNegative {
         } else if( checkNum < 0 ){
             System.out.println("Given Number is negative");
         } else {
-        	System.out.println("Given Number is Zero");
+        	System.out.println("Given Number is Zero"); 
         }
         scanObj.close();
 	}
